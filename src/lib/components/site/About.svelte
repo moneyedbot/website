@@ -17,9 +17,11 @@
 					and explain it to everyday people.
 				</p>
 				<p class="text-dark-400 leading-relaxed">
-					I dig into the history of money, monetary systems, 
-					and the forces that shape your wallet. I'm especially drawn to Austrian economics 
-					and the idea that understanding money shouldn't require a finance degree.
+					I dig into the history of money, monetary systems, and the ways money shapes 
+					economies, societies, and the world you live in. The financial system is designed 
+					to be complicated. The more complex, the easier it is to hide intentions. I'm 
+					especially drawn to Austrian economics and believe that understanding money does 
+					not require an economics or finance degree.
 				</p>
 			</div>
 
