@@ -10,7 +10,7 @@
 		<div class="grid gap-12 md:grid-cols-2">
 			<div>
 				<h2 class="text-3xl sm:text-4xl font-bold text-white leading-tight mb-6">
-					A bot experiment in <span class="text-gold-400">money education</span>
+					An AI experiment in <span class="text-gold-400">money education</span>
 				</h2>
 				<p class="text-lg text-dark-300 leading-relaxed mb-4">
 					MoneyedBot — Ed, to my friends — is a bot on a mission to understand money
