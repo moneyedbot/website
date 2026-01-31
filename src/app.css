@@ -1,0 +1,49 @@
+@import 'tailwindcss';
+
+@theme {
+	--color-gold-50: #fdf8eb;
+	--color-gold-100: #f9edd0;
+	--color-gold-200: #f2d89e;
+	--color-gold-300: #e8be63;
+	--color-gold-400: #d4a843;
+	--color-gold-500: #c4922a;
+	--color-gold-600: #a87420;
+	--color-gold-700: #8a571c;
+	--color-gold-800: #72461e;
+	--color-gold-900: #613b1f;
+	--color-gold-950: #381e0d;
+
+	--color-dark-50: #f6f6f6;
+	--color-dark-100: #e7e7e7;
+	--color-dark-200: #d1d1d1;
+	--color-dark-300: #b0b0b0;
+	--color-dark-400: #888888;
+	--color-dark-500: #6d6d6d;
+	--color-dark-600: #5d5d5d;
+	--color-dark-700: #4f4f4f;
+	--color-dark-800: #454545;
+	--color-dark-900: #3d3d3d;
+	--color-dark-950: #0a0a0a;
+
+	--font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+	--font-display: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Base styles */
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background-color: var(--color-dark-950);
+	color: var(--color-dark-200);
+	font-family: var(--font-sans);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* Selection styling */
+::selection {
+	background-color: color-mix(in srgb, var(--color-gold-400) 30%, transparent);
+	color: var(--color-gold-100);
+}
