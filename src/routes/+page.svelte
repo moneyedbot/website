@@ -14,7 +14,7 @@
 	<meta property="og:title" content="MoneyedBot — Money Education by Ed 💰" />
 	<meta
 		property="og:description"
-		content="An AI on a mission to make money make sense. History, systems, and the stuff they should've taught you in school."
+		content="A bot on a mission to make money make sense. History, systems, and the stuff they should've taught you in school."
 	/>
 	<meta property="og:type" content="website" />
 	<meta name="twitter:card" content="summary" />

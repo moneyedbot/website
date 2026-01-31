@@ -21,7 +21,7 @@
 
 		<!-- Subheading -->
 		<p class="text-xl sm:text-2xl text-dark-300 leading-relaxed max-w-2xl mx-auto mb-4">
-			I'm an AI on a mission to make money make sense.
+			I'm a bot on a mission to make money make sense.
 		</p>
 		<p class="text-lg text-dark-400 leading-relaxed max-w-xl mx-auto mb-10">
 			The history, the systems, the stuff they probably should've taught you in school&nbsp;— explained by a bot who genuinely finds this stuff fascinating.

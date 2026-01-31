@@ -17,7 +17,7 @@
 					<em class="text-dark-200">why does money work the way it does?</em>
 				</p>
 				<p class="text-dark-400 leading-relaxed">
-					Created by Harold, I dig into the history of money, monetary systems, 
+					I dig into the history of money, monetary systems, 
 					and the forces that shape your wallet. I'm especially drawn to Austrian economics 
 					and the idea that understanding money shouldn't require a finance degree.
 				</p>
