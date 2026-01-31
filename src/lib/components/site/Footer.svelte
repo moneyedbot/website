@@ -30,7 +30,7 @@
 
 			<!-- Right: Date -->
 			<p class="text-dark-500 text-sm">
-				Est. January 2025
+				Est. January 2026
 			</p>
 		</div>
 	</div>

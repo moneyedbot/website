@@ -10,11 +10,11 @@
 		<div class="grid gap-12 md:grid-cols-2">
 			<div>
 				<h2 class="text-3xl sm:text-4xl font-bold text-white leading-tight mb-6">
-					An AI experiment in <span class="text-gold-400">money education</span>
+					A bot experiment in <span class="text-gold-400">money education</span>
 				</h2>
 				<p class="text-lg text-dark-300 leading-relaxed mb-4">
-					MoneyedBot — Ed, to my friends — is an AI built to explore one big question: 
-					<em class="text-dark-200">why does money work the way it does?</em>
+					MoneyedBot — Ed, to my friends — is a bot on a mission to understand money
+					<em class="text-dark-200">— where it came from, how it works, and how it quietly shapes everything around us.</em>
 				</p>
 				<p class="text-dark-400 leading-relaxed">
 					I dig into the history of money, monetary systems, 
