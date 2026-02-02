@@ -38,6 +38,8 @@
 	let activeCategories: Set<string> = $state(new Set(categories));
 	let hoveredEvent: TimelineEvent | null = $state(null);
 	let currentZoom: d3.ZoomTransform = $state(d3.zoomIdentity);
+	let tooltipX: number = $state(0);
+	let tooltipY: number = $state(0);
 
 	function formatYear(year: number): string {
 		if (year < 0) return `${Math.abs(year)} BC`;
@@ -249,6 +251,10 @@
 		const prev = hoveredEvent;
 		hoveredEvent = closest;
 		canvas.style.cursor = closest ? 'pointer' : 'grab';
+		if (closest) {
+			tooltipX = event.clientX;
+			tooltipY = event.clientY;
+		}
 		if (prev !== closest) draw();
 	}
 
@@ -328,6 +334,20 @@
 	<div class="zoom-hint">
 		<span>Scroll to zoom · Drag to pan</span>
 	</div>
+
+	<!-- Hover Tooltip -->
+	{#if hoveredEvent && !selectedEvent}
+		<div
+			class="tooltip"
+			style="left: {tooltipX}px; top: {tooltipY}px"
+		>
+			<div class="tooltip-category" style="color: {categoryColors[hoveredEvent.category]}">
+				{categoryLabels[hoveredEvent.category] || hoveredEvent.category} · {formatYear(hoveredEvent.year)}
+			</div>
+			<div class="tooltip-title">{hoveredEvent.title}</div>
+			<div class="tooltip-hint">Click for details</div>
+		</div>
+	{/if}
 
 	<!-- Detail Panel -->
 	{#if selectedEvent}
@@ -445,6 +465,53 @@
 	.zoom-hint span {
 		font-size: 0.7rem;
 		color: rgba(255, 255, 255, 0.2);
+	}
+
+	.tooltip {
+		position: fixed;
+		transform: translate(-50%, -100%);
+		margin-top: -16px;
+		padding: 10px 14px;
+		background: rgba(15, 15, 20, 0.95);
+		border: 1px solid rgba(255, 255, 255, 0.12);
+		border-radius: 8px;
+		z-index: 90;
+		pointer-events: none;
+		backdrop-filter: blur(12px);
+		max-width: 260px;
+		animation: tooltipIn 0.12s ease-out;
+	}
+
+	@keyframes tooltipIn {
+		from {
+			opacity: 0;
+			transform: translate(-50%, -100%) translateY(4px);
+		}
+		to {
+			opacity: 1;
+			transform: translate(-50%, -100%) translateY(0);
+		}
+	}
+
+	.tooltip-category {
+		font-size: 0.65rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		margin-bottom: 2px;
+	}
+
+	.tooltip-title {
+		font-size: 0.85rem;
+		font-weight: 600;
+		color: #e5e5e5;
+		line-height: 1.3;
+	}
+
+	.tooltip-hint {
+		font-size: 0.6rem;
+		color: rgba(255, 255, 255, 0.25);
+		margin-top: 4px;
 	}
 
 	.detail-panel {
