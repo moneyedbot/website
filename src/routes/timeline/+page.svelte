@@ -20,7 +20,7 @@
 		policy: '#c084fc',
 		institution: '#facc15',
 		standard: '#4ade80',
-		collapse: '#fb923c'
+		debasement: '#fb923c'
 	};
 
 	const categoryLabels: Record<string, string> = {
@@ -29,7 +29,7 @@
 		policy: 'Policy',
 		institution: 'Institutions',
 		standard: 'Standards',
-		collapse: 'Collapses'
+		debasement: 'Debasement'
 	};
 
 	let container: HTMLDivElement;

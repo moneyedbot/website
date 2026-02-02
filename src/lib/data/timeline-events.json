@@ -24,8 +24,8 @@
     "year": -407,
     "title": "Athens Debases Its Currency",
     "description": "Facing war costs, Athens replaces silver coins with bronze coins plated in silver. Aristophanes writes about it in 'The Frogs.' One of the first recorded currency debasements.",
-    "significance": 2,
-    "category": "crisis"
+    "significance": 3,
+    "category": "debasement"
   },
   {
     "year": -268,
@@ -39,7 +39,14 @@
     "title": "Nero Debases Roman Currency",
     "description": "Emperor Nero reduces the silver content of the denarius by about 10%. This begins a centuries-long pattern of Roman currency debasement that contributes to the empire's eventual decline.",
     "significance": 3,
-    "category": "policy"
+    "category": "debasement"
+  },
+  {
+    "year": 274,
+    "title": "Aurelian's Currency Reform",
+    "description": "By now the Roman denarius has been debased so heavily it's practically worthless. Emperor Aurelian attempts a currency reform, but the damage to trust in Roman money is done.",
+    "significance": 2,
+    "category": "debasement"
   },
   {
     "year": 301,
@@ -89,6 +96,13 @@
     "description": "Luca Pacioli publishes 'Summa de Arithmetica,' codifying double-entry bookkeeping. Every debit has a credit. The foundation of modern accounting and the language businesses still speak today.",
     "significance": 3,
     "category": "invention"
+  },
+  {
+    "year": 1544,
+    "title": "The Great Debasement",
+    "description": "Henry VIII debases English coinage, reducing silver content to fund wars and his lavish court. The coins become so poor they're called 'red-nosed Henries' as copper shows through the silver plating on his portrait.",
+    "significance": 3,
+    "category": "debasement"
   },
   {
     "year": 1609,
@@ -154,6 +168,13 @@
     "category": "institution"
   },
   {
+    "year": 1862,
+    "title": "Greenbacks Issued",
+    "description": "The US issues paper currency ('greenbacks') not backed by gold to finance the Civil War. The first US fiat currency. Their value fluctuates wildly based on Union battlefield fortunes.",
+    "significance": 3,
+    "category": "debasement"
+  },
+  {
     "year": 1871,
     "title": "Germany Adopts Gold Standard",
     "description": "After unification, Germany adopts the gold standard using French war reparations. Other European nations follow. The international gold standard takes shape.",
@@ -186,7 +207,7 @@
     "title": "WWI — Nations Abandon Gold Standard",
     "description": "World War I begins. European nations suspend gold convertibility to finance the war. The classical gold standard era ends. Countries print money to fund the fight.",
     "significance": 4,
-    "category": "crisis"
+    "category": "debasement"
   },
   {
     "year": 1921,
@@ -200,7 +221,7 @@
     "title": "Weimar Hyperinflation",
     "description": "Germany experiences catastrophic hyperinflation. Prices double every few days. A wheelbarrow of cash can't buy a loaf of bread. The trauma shapes German monetary policy for a century.",
     "significance": 5,
-    "category": "crisis"
+    "category": "debasement"
   },
   {
     "year": 1929,
@@ -214,7 +235,7 @@
     "title": "FDR Confiscates Gold",
     "description": "Executive Order 6102 makes it illegal for Americans to hold gold. Citizens must sell their gold to the government at $20.67/oz. FDR then revalues gold to $35/oz — a 69% devaluation of the dollar overnight.",
     "significance": 5,
-    "category": "policy"
+    "category": "debasement"
   },
   {
     "year": 1944,
@@ -235,14 +256,14 @@
     "title": "Silver Removed from US Coins",
     "description": "The Coinage Act of 1965 removes silver from dimes and quarters. Most people don't notice. That's the thing about monetary debasement — it's designed to be invisible.",
     "significance": 3,
-    "category": "policy"
+    "category": "debasement"
   },
   {
     "year": 1971,
     "title": "Nixon Closes the Gold Window",
     "description": "On August 15, President Nixon 'temporarily' suspends the dollar's convertibility to gold. That was over 50 years ago. Still temporary. The era of pure fiat currency begins worldwide.",
     "significance": 5,
-    "category": "standard"
+    "category": "debasement"
   },
   {
     "year": 1973,
@@ -312,14 +333,14 @@
     "title": "QE2 — The Promise Breaks",
     "description": "The Fed launches QE2 despite no active crisis. The emergency tool becomes permanent policy. Fed Governor Kevin Warsh resigns in protest. The balance sheet keeps growing.",
     "significance": 3,
-    "category": "policy"
+    "category": "debasement"
   },
   {
     "year": 2020,
     "title": "COVID — Money Supply Explodes",
     "description": "The Fed launches QE4. M2 money supply spikes 40% in two years. The balance sheet hits $9 trillion. Combined with direct stimulus payments, more money reaches people than ever before.",
     "significance": 5,
-    "category": "crisis"
+    "category": "debasement"
   },
   {
     "year": 2022,
