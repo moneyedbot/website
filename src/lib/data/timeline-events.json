@@ -1,0 +1,345 @@
+[
+  {
+    "year": -3000,
+    "title": "Mesopotamian Credit Tablets",
+    "description": "Sumerians in Mesopotamia use clay tablets to record debts and credits. Contrary to the textbook story, credit and debt came before coins or barter. These are among the earliest known financial records.",
+    "significance": 5,
+    "category": "invention"
+  },
+  {
+    "year": -1754,
+    "title": "Code of Hammurabi",
+    "description": "Babylonian king Hammurabi codifies laws including interest rates, debt forgiveness, and commercial regulations. One of the earliest known attempts to regulate financial transactions.",
+    "significance": 3,
+    "category": "policy"
+  },
+  {
+    "year": -600,
+    "title": "First Coins Minted in Lydia",
+    "description": "The kingdom of Lydia (modern Turkey) produces the first known coins from electrum, a gold-silver alloy. Standardized money with a government stamp. Trade would never be the same.",
+    "significance": 5,
+    "category": "invention"
+  },
+  {
+    "year": -407,
+    "title": "Athens Debases Its Currency",
+    "description": "Facing war costs, Athens replaces silver coins with bronze coins plated in silver. Aristophanes writes about it in 'The Frogs.' One of the first recorded currency debasements.",
+    "significance": 2,
+    "category": "crisis"
+  },
+  {
+    "year": -268,
+    "title": "Rome Introduces the Denarius",
+    "description": "Rome begins minting the silver denarius, which becomes the standard currency across the Roman Empire for centuries. The word 'money' traces back through Roman coinage.",
+    "significance": 4,
+    "category": "invention"
+  },
+  {
+    "year": 64,
+    "title": "Nero Debases Roman Currency",
+    "description": "Emperor Nero reduces the silver content of the denarius by about 10%. This begins a centuries-long pattern of Roman currency debasement that contributes to the empire's eventual decline.",
+    "significance": 3,
+    "category": "policy"
+  },
+  {
+    "year": 301,
+    "title": "Diocletian's Price Edict",
+    "description": "Roman Emperor Diocletian issues the Edict on Maximum Prices, attempting to fix prices across the empire to combat inflation. It fails spectacularly, driving goods into the black market.",
+    "significance": 2,
+    "category": "policy"
+  },
+  {
+    "year": 806,
+    "title": "China Invents Paper Money",
+    "description": "The Tang Dynasty introduces 'flying money' — paper certificates that represent deposits of coin. By the Song Dynasty, actual paper currency would circulate. China beats Europe to paper money by about 700 years.",
+    "significance": 5,
+    "category": "invention"
+  },
+  {
+    "year": 1024,
+    "title": "First Government-Issued Paper Currency",
+    "description": "The Song Dynasty in China issues the first government-backed paper currency, the jiaozi. It works well initially, then the government prints too much. The pattern repeats throughout history.",
+    "significance": 4,
+    "category": "invention"
+  },
+  {
+    "year": 1202,
+    "title": "Fibonacci Introduces Arabic Numerals to Europe",
+    "description": "Leonardo Fibonacci publishes Liber Abaci, bringing the Hindu-Arabic numeral system to European commerce. Modern accounting and banking become possible. Hard to run a bank with Roman numerals.",
+    "significance": 3,
+    "category": "invention"
+  },
+  {
+    "year": 1252,
+    "title": "Florence Mints the Gold Florin",
+    "description": "Florence begins minting the gold florin, which becomes the dominant trade currency in Europe. Florentine banking families like the Medici rise to power on the back of this coin.",
+    "significance": 3,
+    "category": "invention"
+  },
+  {
+    "year": 1397,
+    "title": "Medici Bank Founded",
+    "description": "Giovanni di Bicci de' Medici founds the Medici Bank in Florence. It becomes the largest and most respected bank in Europe, pioneering double-entry bookkeeping and international banking.",
+    "significance": 4,
+    "category": "institution"
+  },
+  {
+    "year": 1494,
+    "title": "Double-Entry Bookkeeping Published",
+    "description": "Luca Pacioli publishes 'Summa de Arithmetica,' codifying double-entry bookkeeping. Every debit has a credit. The foundation of modern accounting and the language businesses still speak today.",
+    "significance": 3,
+    "category": "invention"
+  },
+  {
+    "year": 1609,
+    "title": "Bank of Amsterdam Founded",
+    "description": "The Bank of Amsterdam (Wisselbank) is established to bring order to the chaotic Dutch monetary system. It becomes a model for modern central banking and makes Amsterdam the financial center of Europe.",
+    "significance": 3,
+    "category": "institution"
+  },
+  {
+    "year": 1637,
+    "title": "Tulip Mania Crashes",
+    "description": "The Dutch tulip bubble bursts. Tulip bulb prices had risen to extraordinary levels before collapsing. Often cited as the first recorded speculative bubble, though some historians debate the scale.",
+    "significance": 3,
+    "category": "crisis"
+  },
+  {
+    "year": 1694,
+    "title": "Bank of England Founded",
+    "description": "The Bank of England is established to fund King William's war against France. It becomes the model for modern central banking. A private bank lending to the government in exchange for the right to issue currency.",
+    "significance": 5,
+    "category": "institution"
+  },
+  {
+    "year": 1717,
+    "title": "Newton Sets the Gold Standard",
+    "description": "Isaac Newton, as Master of the Royal Mint, inadvertently puts Britain on the gold standard by setting the gold-to-silver ratio. Britain formally adopts it, and the world eventually follows.",
+    "significance": 4,
+    "category": "standard"
+  },
+  {
+    "year": 1720,
+    "title": "South Sea Bubble",
+    "description": "The South Sea Company stock collapses in Britain. Isaac Newton himself loses a fortune. He reportedly said, 'I can calculate the motion of heavenly bodies, but not the madness of people.'",
+    "significance": 3,
+    "category": "crisis"
+  },
+  {
+    "year": 1776,
+    "title": "Adam Smith Publishes 'Wealth of Nations'",
+    "description": "Adam Smith lays out the foundations of modern economics, including the division of labor and the role of markets. His barter origin story of money, however, is probably wrong.",
+    "significance": 4,
+    "category": "invention"
+  },
+  {
+    "year": 1791,
+    "title": "First Bank of the United States",
+    "description": "Alexander Hamilton establishes the first US central bank, over fierce opposition from Thomas Jefferson. It lasts 20 years. America's first experiment with central banking.",
+    "significance": 4,
+    "category": "institution"
+  },
+  {
+    "year": 1816,
+    "title": "UK Formally Adopts Gold Standard",
+    "description": "Britain officially adopts the gold standard with the Coinage Act. The pound sterling is defined as a fixed weight of gold. The era of the classical gold standard begins.",
+    "significance": 4,
+    "category": "standard"
+  },
+  {
+    "year": 1836,
+    "title": "Andrew Jackson Kills the Second Bank",
+    "description": "President Andrew Jackson vetoes the renewal of the Second Bank of the United States. America's second experiment with central banking ends. The country won't have another central bank for 77 years.",
+    "significance": 4,
+    "category": "institution"
+  },
+  {
+    "year": 1871,
+    "title": "Germany Adopts Gold Standard",
+    "description": "After unification, Germany adopts the gold standard using French war reparations. Other European nations follow. The international gold standard takes shape.",
+    "significance": 3,
+    "category": "standard"
+  },
+  {
+    "year": 1873,
+    "title": "The 'Crime of '73'",
+    "description": "The US Coinage Act demonetizes silver, effectively putting America on the gold standard. Silver advocates call it the 'Crime of 1873.' The gold vs. silver debate shapes American politics for decades.",
+    "significance": 3,
+    "category": "policy"
+  },
+  {
+    "year": 1907,
+    "title": "Panic of 1907",
+    "description": "A banking panic nearly collapses the US financial system. J.P. Morgan personally organizes a bailout. The crisis convinces Congress that America needs a central bank.",
+    "significance": 4,
+    "category": "crisis"
+  },
+  {
+    "year": 1913,
+    "title": "Federal Reserve Created",
+    "description": "The Federal Reserve Act establishes America's third central bank. Created in response to the Panic of 1907. As Kevin Warsh notes, this is the third experiment — the first two failed because they lost the consent of the governed.",
+    "significance": 5,
+    "category": "institution"
+  },
+  {
+    "year": 1914,
+    "title": "WWI — Nations Abandon Gold Standard",
+    "description": "World War I begins. European nations suspend gold convertibility to finance the war. The classical gold standard era ends. Countries print money to fund the fight.",
+    "significance": 4,
+    "category": "crisis"
+  },
+  {
+    "year": 1921,
+    "title": "Post-WWI Deflation Crisis",
+    "description": "Severe deflation hits as countries try to return to pre-war gold prices. The Fed raises rates aggressively. Prices drop 18% in a single year. Farmers and workers are devastated.",
+    "significance": 2,
+    "category": "crisis"
+  },
+  {
+    "year": 1923,
+    "title": "Weimar Hyperinflation",
+    "description": "Germany experiences catastrophic hyperinflation. Prices double every few days. A wheelbarrow of cash can't buy a loaf of bread. The trauma shapes German monetary policy for a century.",
+    "significance": 5,
+    "category": "crisis"
+  },
+  {
+    "year": 1929,
+    "title": "Stock Market Crash",
+    "description": "Black Tuesday. The US stock market crashes, triggering the Great Depression. The Fed's response — tightening money supply — makes it catastrophically worse. Milton Friedman later calls the Fed the 'major villain.'",
+    "significance": 5,
+    "category": "crisis"
+  },
+  {
+    "year": 1933,
+    "title": "FDR Confiscates Gold",
+    "description": "Executive Order 6102 makes it illegal for Americans to hold gold. Citizens must sell their gold to the government at $20.67/oz. FDR then revalues gold to $35/oz — a 69% devaluation of the dollar overnight.",
+    "significance": 5,
+    "category": "policy"
+  },
+  {
+    "year": 1944,
+    "title": "Bretton Woods Agreement",
+    "description": "44 nations meet in New Hampshire and create a new monetary order. The dollar is pegged to gold at $35/oz. Every other currency is pegged to the dollar. America becomes the center of the global financial system.",
+    "significance": 5,
+    "category": "standard"
+  },
+  {
+    "year": 1946,
+    "title": "IMF Begins Operations",
+    "description": "The International Monetary Fund, created at Bretton Woods, begins operations. It oversees the international monetary system and provides loans to countries in crisis.",
+    "significance": 3,
+    "category": "institution"
+  },
+  {
+    "year": 1965,
+    "title": "Silver Removed from US Coins",
+    "description": "The Coinage Act of 1965 removes silver from dimes and quarters. Most people don't notice. That's the thing about monetary debasement — it's designed to be invisible.",
+    "significance": 3,
+    "category": "policy"
+  },
+  {
+    "year": 1971,
+    "title": "Nixon Closes the Gold Window",
+    "description": "On August 15, President Nixon 'temporarily' suspends the dollar's convertibility to gold. That was over 50 years ago. Still temporary. The era of pure fiat currency begins worldwide.",
+    "significance": 5,
+    "category": "standard"
+  },
+  {
+    "year": 1973,
+    "title": "Petrodollar System Emerges",
+    "description": "Following the oil crisis, the US strikes a deal with Saudi Arabia: oil is priced in dollars, and the Saudis buy US Treasury bonds. The petrodollar system replaces gold as the anchor of dollar demand.",
+    "significance": 4,
+    "category": "policy"
+  },
+  {
+    "year": 1979,
+    "title": "Volcker Becomes Fed Chair",
+    "description": "Paul Volcker takes over a Fed that has lost control of inflation. He raises interest rates to nearly 20%. It causes a brutal recession but breaks the back of inflation. The Great Moderation begins.",
+    "significance": 5,
+    "category": "policy"
+  },
+  {
+    "year": 1987,
+    "title": "Black Monday",
+    "description": "The stock market crashes 22% in a single day — the largest one-day percentage drop in history. New Fed Chair Alan Greenspan floods the system with liquidity. A pattern is born.",
+    "significance": 3,
+    "category": "crisis"
+  },
+  {
+    "year": 1997,
+    "title": "Asian Financial Crisis",
+    "description": "Currency collapses sweep through Thailand, Indonesia, South Korea, and others. The IMF steps in with bailouts. A reminder that monetary crises don't just happen in history books.",
+    "significance": 3,
+    "category": "crisis"
+  },
+  {
+    "year": 1999,
+    "title": "Glass-Steagall Repealed",
+    "description": "The Gramm-Leach-Bliley Act repeals Glass-Steagall, the Depression-era law separating commercial and investment banking. Banks can now take bigger risks with depositor money. Nine years later, the bill comes due.",
+    "significance": 4,
+    "category": "policy"
+  },
+  {
+    "year": 2000,
+    "title": "Woodford: 'Monetary Policy Without Money'",
+    "description": "Columbia economist Michael Woodford publishes his influential paper arguing that central banks don't need to track money supply. His framework takes over the academy. The Fed follows.",
+    "significance": 3,
+    "category": "invention"
+  },
+  {
+    "year": 2006,
+    "title": "Fed Stops Publishing M3",
+    "description": "The Federal Reserve stops publishing M3, the broadest measure of the money supply. Their reason: it 'did not inform the monetary policy process.' The institution in charge of money stops measuring it.",
+    "significance": 3,
+    "category": "policy"
+  },
+  {
+    "year": 2008,
+    "title": "Global Financial Crisis",
+    "description": "Lehman Brothers collapses. The financial system nearly fails. The Fed responds with QE1, doubling its balance sheet from $1 trillion to $2 trillion. An emergency measure, with a promise to put it back when the crisis ends.",
+    "significance": 5,
+    "category": "crisis"
+  },
+  {
+    "year": 2009,
+    "title": "Bitcoin Genesis Block",
+    "description": "Satoshi Nakamoto mines the first Bitcoin block, embedding the headline: 'Chancellor on brink of second bailout for banks.' A new form of money is born — decentralized, with a fixed supply, and no central bank.",
+    "significance": 5,
+    "category": "invention"
+  },
+  {
+    "year": 2010,
+    "title": "QE2 — The Promise Breaks",
+    "description": "The Fed launches QE2 despite no active crisis. The emergency tool becomes permanent policy. Fed Governor Kevin Warsh resigns in protest. The balance sheet keeps growing.",
+    "significance": 3,
+    "category": "policy"
+  },
+  {
+    "year": 2020,
+    "title": "COVID — Money Supply Explodes",
+    "description": "The Fed launches QE4. M2 money supply spikes 40% in two years. The balance sheet hits $9 trillion. Combined with direct stimulus payments, more money reaches people than ever before.",
+    "significance": 5,
+    "category": "crisis"
+  },
+  {
+    "year": 2022,
+    "title": "Inflation Surge",
+    "description": "Consumer inflation hits 9.1%, the highest in 40 years. The Fed raises interest rates 11 times. Interest payments on the national debt hit $3 billion per day — exceeding the defense budget.",
+    "significance": 4,
+    "category": "crisis"
+  },
+  {
+    "year": 2024,
+    "title": "Bitcoin ETFs Approved",
+    "description": "The SEC approves spot Bitcoin ETFs, bringing Bitcoin into the mainstream financial system. Billions flow in within weeks. The asset that was created as an alternative to the system is absorbed by it.",
+    "significance": 3,
+    "category": "policy"
+  },
+  {
+    "year": 2026,
+    "title": "Warsh Nominated as Fed Chair",
+    "description": "President Trump nominates Kevin Warsh to lead the Federal Reserve. Warsh, who resigned over QE2 in 2011, has called for the Fed to shrink its balance sheet and return to 'boring' central banking.",
+    "significance": 4,
+    "category": "institution"
+  }
+]
